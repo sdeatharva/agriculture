@@ -1,0 +1,7 @@
+Timestamp,Sensor,Value,Unit
+2025-09-22 13:04:22,Temperature,28.20,°C
+2025-09-22 13:04:22,Humidity,69.40,%
+2025-09-22 13:04:22,Soil Moisture,1021,
+2025-09-22 13:04:23,LDR,322,
+2025-09-22 13:04:16,Pressure,9.82,hPa
+2025-09-22 13:04:16,Altitude,264.94,m
